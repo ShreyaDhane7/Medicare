@@ -103,7 +103,6 @@ http://127.0.0.1:5000
 **Shreya Dhane**
 
 - GitHub: https://github.com/ShreyaDhane7
-- LinkedIn: *(Add your LinkedIn profile link here)*
 
 ---
 
